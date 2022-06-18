@@ -64,7 +64,7 @@ h1{
  }
 nav{
   background: #333;
-  padding: 20px;
+  padding-bottom: 30px;
   font-size: 18px;
 }
 
@@ -96,6 +96,7 @@ main{
  margin: auto;
  height: 80%;
  align-items: center;
+ 
  
 }
 
@@ -131,7 +132,7 @@ button{
   border-radius: 30px;
   width: 80% ;
   margin: auto;
-  margin-top: 50px;
+  margin-top: 30px;
   border: 1px;
 }
 
