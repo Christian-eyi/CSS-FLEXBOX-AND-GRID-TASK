@@ -101,7 +101,7 @@ main{
 
 .sedans{
   background-color:hsl(31, 77%, 52%) ;
-  height: 60%;
+  height: fit-content;
   padding: 40px;
   width: 80%;
   border-top-left-radius: 10px;
@@ -111,14 +111,14 @@ main{
 
 .SUVS{
   background-color:hsl(184, 100%, 22%) ;
-  height: 60%;
+  height: fit-content;
   padding: 40px;
   width: 80%;
 }
 
 .LUXURY{
   background-color:hsl(179, 100%, 13%) ;
-  height: 60%;
+  height: fit-content;
   padding: 40px;
   width: 80%;
   border-top-right-radius: 10px;
